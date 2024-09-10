@@ -1,6 +1,6 @@
 # PulseShop
 
-## A fast E-Commerce Shopping App made with React.
+## A fast e-commerce shopping application with authentication, product search and filtering, add to cart, and payment features.
 
 ### Live @ https://pulseshop.pages.dev/
 
