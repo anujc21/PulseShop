@@ -1,2 +1,2 @@
 # PulseShop
-Fast E-Commerce Shopping App made with React
+A fast E-Commerce Shopping App made with React
